@@ -564,43 +564,6 @@
       },
       {
         "store": {
-          "location": "624",
-          "chain": "DICKS SPORTING GOODS",
-          "name": "MODESTO",
-          "street1": "VINTAGE FAIRE MALL",
-          "street2": "3401 DALE ROAD  SUITE 900",
-          "phone": "209-578-1215",
-          "city": "MODESTO",
-          "state": "CA",
-          "zip": "95356",
-          "country": "US",
-          "lat": "37.6879",
-          "lng": "-121.053",
-          "hours": {
-            "sun": "1000-1900",
-            "mon": "0900-2100",
-            "tue": "0900-2100",
-            "wed": "0900-2100",
-            "thu": "0900-2100",
-            "fri": "0900-2100",
-            "sat": "0900-2100"
-          },
-          "status": "5"
-        },
-        "distance": "77.91",
-        "units": "mile",
-        "skus": [
-          {
-            "qty": {
-              "ats": "0",
-              "isa": "0"
-            },
-            "sku": "10404936"
-          }
-        ]
-      },
-      {
-        "store": {
           "location": "1070",
           "chain": "DICKS SPORTING GOODS",
           "name": "SALINAS",
