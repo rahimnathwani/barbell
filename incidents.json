@@ -1,0 +1,678 @@
+{
+  "status": "OK",
+  "data": {
+    "origin": {
+      "geocoded_address": "DALY CITY, CA  94015, US",
+      "lat": "37.6828",
+      "lng": "-122.4779"
+    },
+    "results": [
+      {
+        "store": {
+          "location": "1092",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "DALY CITY",
+          "street1": "SERRAMONTE MALL",
+          "street2": "64 SERRAMONTE CENTER",
+          "phone": "415-325-4109",
+          "city": "DALY CITY",
+          "state": "CA",
+          "zip": "94015",
+          "country": "US",
+          "lat": "37.671793",
+          "lng": "-122.472257",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": ".82",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1072",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "PLEASANT HILL",
+          "street1": "THE CROSSROADS",
+          "street2": "2314 MONUMENT BLVD",
+          "phone": "925-222-3508",
+          "city": "PLEASANT HILL",
+          "state": "CA",
+          "zip": "94523",
+          "country": "US",
+          "lat": "37.942237",
+          "lng": "-122.058127",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "29.09",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1170",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "FREMONT",
+          "street1": "PACIFIC COMMONS",
+          "street2": "43923 PACIFIC COMMONS BLVD",
+          "phone": "510-897-6475",
+          "city": "FREMONT",
+          "state": "CA",
+          "zip": "94538",
+          "country": "US",
+          "lat": "37.5004",
+          "lng": "-121.97",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "30.53",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1401",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "SUNNYVALE",
+          "street1": "125 E. EL CAMINO REAL",
+          "street2": null,
+          "phone": "408-498-4293",
+          "city": "SUNNYVALE",
+          "state": "CA",
+          "zip": "94087",
+          "country": "US",
+          "lat": "37.366701",
+          "lng": "-122.029005",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "32.89",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1071",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "DUBLIN",
+          "street1": "FALLON GATEWAY",
+          "street2": "2820 DUBLIN BLVD",
+          "phone": "925-479-0680",
+          "city": "DUBLIN",
+          "state": "CA",
+          "zip": "94568",
+          "country": "US",
+          "lat": "37.703951",
+          "lng": "-121.853734",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "34.16",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1416",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "MILPITAS",
+          "street1": "THE GREAT MALL OF BAY AREA",
+          "street2": "1200 GREAT MALL DRIVE",
+          "phone": "408-503-0370",
+          "city": "MILPITAS",
+          "state": "CA",
+          "zip": "95035",
+          "country": "US",
+          "lat": "37.414998",
+          "lng": "-121.898892",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "36.72",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1048",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "PETALUMA",
+          "street1": "EAST WASHINGTON PLACE",
+          "street2": "401 KENILWORTH",
+          "phone": "707-763-3750",
+          "city": "PETALUMA",
+          "state": "CA",
+          "zip": "94952",
+          "country": "US",
+          "lat": "38.243412",
+          "lng": "-122.624013",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "39.54",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "2"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1409",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "BLOSSOM HILL",
+          "street1": "SUNRISE PLAZA",
+          "street2": "680 BLOSSOM HILL ROAD",
+          "phone": "408-300-5212",
+          "city": "SAN JOSE",
+          "state": "CA",
+          "zip": "95123",
+          "country": "US",
+          "lat": "37.249665",
+          "lng": "-121.845936",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "45.79",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1330",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "FAIRFIELD",
+          "street1": "SOLANO TOWN CENTER",
+          "street2": "1451 GATEWAY BLVD",
+          "phone": "707-384-6046",
+          "city": "FAIRFIELD",
+          "state": "CA",
+          "zip": "94533",
+          "country": "US",
+          "lat": "38.25966457",
+          "lng": "-122.05287",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "46.09",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1049",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "SANTA ROSA",
+          "street1": "CODDINGTOWN MALL",
+          "street2": "1975 CLEVELAND AVE",
+          "phone": "707-228-1223",
+          "city": "SANTA ROSA",
+          "state": "CA",
+          "zip": "95401",
+          "country": "US",
+          "lat": "38.455938",
+          "lng": "-122.72787",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "5"
+        },
+        "distance": "55.12",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1262",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "MORGAN HILL",
+          "street1": "COCHRANE COMMONS",
+          "street2": "1007 COCHRANE ROAD, SUITE 150",
+          "phone": "408-763-4779",
+          "city": "MORGAN HILL",
+          "state": "CA",
+          "zip": "95037",
+          "country": "US",
+          "lat": "37.155",
+          "lng": "-121.653",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "58.13",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1176",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "STOCKTON",
+          "street1": "SHERWOOD MALL",
+          "street2": "5354 PACIFIC AVE",
+          "phone": "209-992-5745",
+          "city": "STOCKTON",
+          "state": "CA",
+          "zip": "95207",
+          "country": "US",
+          "lat": "37.999154073813",
+          "lng": "-121.31191689011",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "67.27",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1297",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "LODI",
+          "street1": "REYNOLDS RANCH",
+          "street2": "2760 REYONLDS RANCH PARKWAY",
+          "phone": "209-368-2328",
+          "city": "LODI",
+          "state": "CA",
+          "zip": "95240",
+          "country": "US",
+          "lat": "38.099",
+          "lng": "-121.261",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "72.32",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1232",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "DELTA SHORES",
+          "street1": "DELTA SHORES",
+          "street2": "8214 DELTA SHORES CIRCLE S",
+          "phone": "916-647-0160",
+          "city": "SACRAMENTO",
+          "state": "CA",
+          "zip": "95832",
+          "country": "US",
+          "lat": "38.460713",
+          "lng": "-121.493328",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "75.87",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1382",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "MODESTO",
+          "street1": "VINTAGE FAIRE MALL",
+          "street2": "3401 DALE ROAD, SUITE 100",
+          "phone": "209-661-2101",
+          "city": "MODESTO",
+          "state": "CA",
+          "zip": "95356",
+          "country": "US",
+          "lat": "37.68791779",
+          "lng": "-121.0539998",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "77.86",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1070",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "SALINAS",
+          "street1": "WESTRIDGE CENTER",
+          "street2": "1223 N DAVIS ROAD",
+          "phone": "831-751-9019",
+          "city": "SALINAS",
+          "state": "CA",
+          "zip": "93907",
+          "country": "US",
+          "lat": "36.7006",
+          "lng": "-121.669",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "81.16",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1182",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "TURLOCK",
+          "street1": "MONTE VISTA CROSSING",
+          "street2": "2711 COUNTRYSIDE DRIVE",
+          "phone": "209-216-4385",
+          "city": "TURLOCK",
+          "state": "CA",
+          "zip": "95380",
+          "country": "US",
+          "lat": "37.5151",
+          "lng": "-120.881",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "88.18",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
+          "location": "1277",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "FOLSOM",
+          "street1": "WILLOW CREEK SHOPPING CENTER",
+          "street2": "1003 E BIDWELL STREET",
+          "phone": "916-358-7111",
+          "city": "FOLSOM",
+          "state": "CA",
+          "zip": "95630",
+          "country": "US",
+          "lat": "38.669062",
+          "lng": "-121.156031",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "4"
+        },
+        "distance": "98.99",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      }
+    ]
+  }
+}
