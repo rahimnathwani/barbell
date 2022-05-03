@@ -1,35 +1,5 @@
 [
   {
-    "asin": "B07GBWZJFC",
-    "image": [
-      52,
-      49,
-      109,
-      85,
-      76,
-      116,
-      86,
-      70,
-      71,
-      79,
-      76,
-      46,
-      106,
-      112,
-      103
-    ],
-    "pricedifference": 19101,
-    "dealscore": 153430,
-    "rootcat": "172282",
-    "savingspercent": 5618,
-    "title": "NETGEAR Orbi Voice Whole Home Mesh WiFi System - fastest WiFi router and satellite extender with Amazon Alexa and Harman Kardon speaker built in, AC3000 (RBK50V)",
-    "usedprice": 14900,
-    "updated_at": "2022-05-03T02:36:36.229Z",
-    "lastchange": "2022-05-02T13:26:44.769Z",
-    "lastupdate": 5961638,
-    "source": 5
-  },
-  {
     "asin": "B01LY964U3",
     "image": [
       51,
@@ -48,15 +18,15 @@
       112,
       103
     ],
-    "pricedifference": 15393,
-    "dealscore": 140918,
+    "pricedifference": 15503,
+    "dealscore": 141029,
     "rootcat": "172282",
-    "savingspercent": 4133,
+    "savingspercent": 4151,
     "title": "Netgear orbi Whole Home Mesh Wifi System with Tri-Band - Wireless router replacement, Eliminate Wifi Dead Zones, Up to 5000 Sqft, 2pk (rbk50)",
     "usedprice": 21846,
-    "updated_at": "2022-05-03T03:19:50.257Z",
+    "updated_at": "2022-05-03T07:30:18.941Z",
     "lastchange": "2022-05-01T06:45:43.311Z",
-    "lastupdate": 5961700,
+    "lastupdate": 5962044,
     "source": 5
   }
 ]
