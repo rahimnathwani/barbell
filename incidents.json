@@ -46,6 +46,43 @@
       },
       {
         "store": {
+          "location": "5448",
+          "chain": "DICKS SPORTING GOODS",
+          "name": "DICK'S Warehouse Sale",
+          "street1": "39125 FREMONT HUB",
+          "street2": null,
+          "phone": "412-240-9979",
+          "city": "FREMONT",
+          "state": "CA",
+          "zip": "94538",
+          "country": null,
+          "lat": "37.5458408",
+          "lng": "-121.9873077",
+          "hours": {
+            "sun": "1000-1900",
+            "mon": "0900-2100",
+            "tue": "0900-2100",
+            "wed": "0900-2100",
+            "thu": "0900-2100",
+            "fri": "0900-2100",
+            "sat": "0900-2100"
+          },
+          "status": "1"
+        },
+        "distance": "28.47",
+        "units": "mile",
+        "skus": [
+          {
+            "qty": {
+              "ats": "0",
+              "isa": "0"
+            },
+            "sku": "10404936"
+          }
+        ]
+      },
+      {
+        "store": {
           "location": "1072",
           "chain": "DICKS SPORTING GOODS",
           "name": "PLEASANT HILL",
