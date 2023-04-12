@@ -1,5 +1,44 @@
 [
   {
+    "asin": "B01K4CZOBS",
+    "image": [
+      50,
+      49,
+      57,
+      111,
+      72,
+      84,
+      75,
+      114,
+      85,
+      57,
+      76,
+      46,
+      95,
+      83,
+      76,
+      53,
+      48,
+      48,
+      95,
+      46,
+      106,
+      112,
+      103
+    ],
+    "newprice": 12300,
+    "pricedifference": 6465,
+    "dealscore": 409108,
+    "rootcat": "172282",
+    "savingspercent": 5256,
+    "title": "NETGEAR Orbi Tri-band Whole Home Mesh WiFi System with 3Gbps Speed (RBK50) – Router & Extender Replacement Covers Up to 5,000 sq. ft., 2-Pack Includes 1 Router & 1 Satellite White",
+    "usedprice": 5835,
+    "updated_at": "2023-04-12T15:09:17.064Z",
+    "lastchange": "2023-04-12T15:09:17.064Z",
+    "lastupdate": 6457376,
+    "source": 1
+  },
+  {
     "asin": "B0BKVBC5JZ",
     "image": [
       50,
@@ -33,7 +72,7 @@
     "savingspercent": 3047,
     "title": "NETGEAR Orbi Outdoor Tri-Band Mesh Satellite WiFi Extender (RBS50Y), Works Best with Orbi RBK50 WiFi Mesh Systems, Adds up to 2,500 sq. ft. Coverage, AC3000 (Up to 3Gbps)",
     "usedprice": 13904,
-    "updated_at": "2023-04-12T10:08:50.178Z",
+    "updated_at": "2023-04-12T12:57:17.863Z",
     "lastchange": "2023-04-10T13:00:43.241Z",
     "lastupdate": 6453656,
     "source": 1
