@@ -1,5 +1,36 @@
 [
   {
+    "asin": "B07GBWZJFC",
+    "image": [
+      52,
+      49,
+      109,
+      85,
+      76,
+      116,
+      86,
+      70,
+      71,
+      79,
+      76,
+      46,
+      106,
+      112,
+      103
+    ],
+    "newprice": 31699,
+    "pricedifference": 22766,
+    "dealscore": 162153,
+    "rootcat": "172282",
+    "savingspercent": 7181,
+    "title": "NETGEAR Orbi Voice Whole Home Mesh WiFi System (RBK50V) - Discontinued by Manufacturer",
+    "usedprice": 8935,
+    "updated_at": "2024-01-04T20:39:21.154Z",
+    "lastchange": "2024-01-04T20:39:21.154Z",
+    "lastupdate": 6842596,
+    "source": 5
+  },
+  {
     "asin": "B01K4CZOBS",
     "image": [
       50,
@@ -33,7 +64,7 @@
     "savingspercent": 6955,
     "title": "NETGEAR Tri-band Whole Home Mesh WiFi System with 3Gbps Speed (RBK50) – Discontinued by Manufacturer",
     "usedprice": 7306,
-    "updated_at": "2024-01-04T16:12:37.180Z",
+    "updated_at": "2024-01-04T21:02:54.900Z",
     "lastchange": "2024-01-04T10:52:34.353Z",
     "lastupdate": 6840802,
     "source": 1
