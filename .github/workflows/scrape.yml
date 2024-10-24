@@ -15,9 +15,6 @@ jobs:
     - name: Fetch latest data on barbell
       run: |-
         curl 'https://availability.dickssportinggoods.com/ws/v2/omni/stores?addr=94015&radius=100&uom=imperial&lob=dsg&sku=10404936&res=locatorsearch' -H 'authority: availability.dickssportinggoods.com' -H 'accept: */*' -H 'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.80 Mobile Safari/537.36' -H 'origin: https://www.dickssportinggoods.com' -H 'sec-fetch-site: same-site' -H 'sec-fetch-mode: cors' -H 'sec-fetch-dest: empty' -H 'referer: https://www.dickssportinggoods.com/p/fitness-gear-300-lbolympic-weight-set-16fgeu300lbstwth7brb/16fgeu300lbstwth7brb' -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8,zh-CN;q=0.7,zh;q=0.6' --compressed | jq . > incidents.json
-    - name: Fetch latest data on rbk50
-      run: |-
-        curl 'https://dealforager.com/api/products?search=rbk50&sort=1&minSavings=30' | jq . > rbk50.json
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
