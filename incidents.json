@@ -83,43 +83,6 @@
       },
       {
         "store": {
-          "location": "1170",
-          "chain": "DICKS SPORTING GOODS",
-          "name": "FREMONT",
-          "street1": "PACIFIC COMMONS",
-          "street2": "43923 PACIFIC COMMONS BLVD",
-          "phone": "510-897-6475",
-          "city": "FREMONT",
-          "state": "CA",
-          "zip": "94538",
-          "country": "US",
-          "lat": "37.5004",
-          "lng": "-121.97",
-          "hours": {
-            "sun": "1000-1900",
-            "mon": "0900-2100",
-            "tue": "0900-2100",
-            "wed": "0900-2100",
-            "thu": "0900-2100",
-            "fri": "0900-2100",
-            "sat": "0900-2100"
-          },
-          "status": "4"
-        },
-        "distance": "30.53",
-        "units": "mile",
-        "skus": [
-          {
-            "qty": {
-              "ats": "0",
-              "isa": "0"
-            },
-            "sku": "10404936"
-          }
-        ]
-      },
-      {
-        "store": {
           "location": "1401",
           "chain": "DICKS SPORTING GOODS",
           "name": "SUNNYVALE",
